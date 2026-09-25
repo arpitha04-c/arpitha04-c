@@ -1,8 +1,9 @@
 Hi, I'm Arpitha 👋
+Software Developer
 
-I'm a Software Developer with a foundation in Java, Spring Boot, React, MySQL, and Data Structures & Algorithms. I enjoy building applications, working with REST APIs and databases, and solving programming problems.
+I'm a Software Developer with a foundation in Java, Spring Boot, React, MySQL, and Data Structures & Algorithms. I enjoy building applications, developing REST APIs, working with databases, and solving programming problems.
 
-Skills
+🛠️ Technical Skills
 
 Languages: Java, JavaScript, SQL
 
@@ -18,35 +19,35 @@ Tools: Git, GitHub, Postman
 
 Problem Solving: Data Structures & Algorithms
 
-Projects
+📌 Projects
 Nikon GearSpace
 
-A full-stack photography equipment management application built using React, Spring Boot, and MySQL.
+Full-stack photography equipment management application built with React, Spring Boot, and MySQL.
 
 Developed REST APIs for managing photography equipment
 
-Implemented create, read, update, and delete operations
+Implemented CRUD operations for product management
 
 Integrated the React frontend with the Spring Boot backend
 
 Used MySQL for persistent data storage
 
-Tested APIs using Postman
+Tested and validated APIs using Postman
 
-Organized the application into separate frontend and backend modules
+Structured the application into separate frontend and backend modules
 
 Java Car Rental System
 
-A console-based car rental application developed using Core Java and object-oriented programming.
+Console-based car rental application developed using Core Java and OOP.
 
 Implemented car rental and return functionality
 
-Applied OOP concepts including encapsulation and collections
+Applied OOP principles, including encapsulation and collections
 
 Added input validation and exception handling
 
-Designed the application using separate classes for core functionality
+Organized the application using separate classes for core functionality
 
-Career
+🎯 Career
 
-Currently looking for Software Developer opportunities where I can contribute to real-world projects and continue developing my skills as a software engineer.
+Currently looking for Software Developer opportunities where I can contribute to real-world projects, apply my technical skills, and continue growing as a software engineer.

@@ -1,41 +1,52 @@
-# Hi, I'm Arpitha 👋
+Hi, I'm Arpitha 👋
 
-### Aspiring Full-Stack Developer
+I'm a Software Developer with a foundation in Java, Spring Boot, React, MySQL, and Data Structures & Algorithms. I enjoy building applications, working with REST APIs and databases, and solving programming problems.
 
-I'm an aspiring Full-Stack Developer with a strong foundation in **Core Java, Object-Oriented Programming, SQL, and Data Structures & Algorithms**, along with hands-on experience building applications using **Spring Boot, React, and MySQL**.
+Skills
 
-## 🛠️ Skills
+Languages: Java, JavaScript, SQL
 
-* **Programming:** Java
-* **Core Concepts:** OOP, Collections, Exception Handling
-* **Backend:** Spring Boot, REST APIs
-* **Database:** MySQL, SQL
-* **Frontend:** React, JavaScript, HTML, CSS
-* **Tools:** Git, GitHub, Postman
-* **DSA:** Data Structures & Algorithms
+Backend: Spring Boot, REST APIs
 
-## 📌 Projects
+Frontend: React, HTML, CSS
 
-### Nikon GearSpace
+Database: MySQL
 
-A full-stack product management application built using **React, Spring Boot, and MySQL**.
+Core Java: OOP, Collections, Exception Handling
 
-* Developed REST APIs for product management using Spring Boot
-* Implemented product creation, retrieval, update, and delete operations
-* Integrated the React frontend with the Spring Boot backend for adding and displaying products
-* Used MySQL for persistent product data storage
-* Tested REST APIs using Postman
-* Structured the application into separate frontend and backend modules
+Tools: Git, GitHub, Postman
 
-### Java Car Rental System
+Problem Solving: Data Structures & Algorithms
 
-A console-based car rental application developed using **Core Java and Object-Oriented Programming** concepts.
+Projects
+Nikon GearSpace
 
-* Implemented car rental and return functionality
-* Added input validation and exception handling
-* Used OOP concepts including classes, objects, encapsulation, and collections
+A full-stack photography equipment management application built using React, Spring Boot, and MySQL.
 
-## 🎯 Career Goal
+Developed REST APIs for managing photography equipment
 
-Seeking an entry-level **Full-Stack Developer** opportunity where I can apply my knowledge of **Java, Spring Boot, React, MySQL, REST APIs, and problem-solving** while continuing to grow as a software developer.
+Implemented create, read, update, and delete operations
 
+Integrated the React frontend with the Spring Boot backend
+
+Used MySQL for persistent data storage
+
+Tested APIs using Postman
+
+Organized the application into separate frontend and backend modules
+
+Java Car Rental System
+
+A console-based car rental application developed using Core Java and object-oriented programming.
+
+Implemented car rental and return functionality
+
+Applied OOP concepts including encapsulation and collections
+
+Added input validation and exception handling
+
+Designed the application using separate classes for core functionality
+
+Career
+
+Currently looking for Software Developer opportunities where I can contribute to real-world projects and continue developing my skills as a software engineer.
